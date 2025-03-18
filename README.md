@@ -1,3 +1,6 @@
+Project Captsone
+Membuat suatu aplikasi dengan py. dan flowchart
+
 1. Suatu Aplikasi untuk peminjaman buku perpustakaan
 2. Dimana ada function untuk memeriksa data buku yang ada diperpustakaan
 3. Menampilkan buku yang available dan tidak available untuk data.
